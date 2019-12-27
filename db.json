@@ -1,6 +1,5 @@
-[
-  {
-"userid": 1,
+{
+"userid": "1",
 "firstname": "Simon",
 "lastname": "Mpoy",
 "username": "Bret",
@@ -9,9 +8,8 @@
 "email": "Sincere@april.biz",
 "birthdate": "test",
 "profilepicurl": "test",
-"zipcode": 48393,
+"zipcode": "48393",
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
 }
-]
