@@ -27,6 +27,20 @@
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
+}, {
+"userid": 3,
+"firstname": "Ruth",
+"lastname": "Mutanga",
+"username": "jayjay",
+"password": "xxxxxxx",
+"title": "Scrum Master",
+"email": "Sincere@april.biz",
+"birthdate": "1997-01-01T23:28:56.782Z",
+"profilepicurl": "https://campfire-project2.s3.us-east-2.amazonaws.com/CDGMBBSL025+-+tissage+2.png",
+"zipcode": 48393,
+"city": "Tampa",
+"state": "Florida",
+"country": "United States"
 }]
 }
 
