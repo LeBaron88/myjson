@@ -1,8 +1,8 @@
 {
 "users": [{
 "userid": 1,
-"firstname": "Simon",
-"lastname": "Mpoy",
+"firstname": "Brenda",
+"lastname": "Olamilekan",
 "username": "Bret",
 "password": "xxxxxxx",
 "title": "LeBaron",
@@ -15,8 +15,8 @@
 "country": "United States"
 }, {
 "userid": 2,
-"firstname": "Jay",
-"lastname": "Chaudhary",
+"firstname": "McKenzie",
+"lastname": "Brown",
 "username": "jayjay",
 "password": "xxxxxxx",
 "title": "Scrum Master",
