@@ -1,4 +1,5 @@
-{
+[
+  {
 "userid": 1,
 "firstname": "Simon",
 "lastname": "Mpoy",
@@ -13,3 +14,4 @@
 "state": "Florida",
 "country": "United States"
 }
+]
