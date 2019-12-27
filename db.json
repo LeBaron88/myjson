@@ -1,6 +1,6 @@
 {
 "users": [{
-"userid": "1",
+"userid": 1,
 "firstname": "Simon",
 "lastname": "Mpoy",
 "username": "Bret",
@@ -9,12 +9,12 @@
 "email": "Sincere@april.biz",
 "birthdate": "test",
 "profilepicurl": "https://campfire-project2.s3.us-east-2.amazonaws.com/CDGMBBSL025+-+plantes+2.jpg",
-"zipcode": "48393",
+"zipcode": 48393,
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
 }, {
-"userid": "2",
+"userid": 2,
 "firstname": "Jay",
 "lastname": "Chaudhary",
 "username": "jayjay",
@@ -23,7 +23,7 @@
 "email": "Sincere@april.biz",
 "birthdate": "test",
 "profilepicurl": "https://campfire-project2.s3.us-east-2.amazonaws.com/CDGMBBSL025+-+plantes.jpg",
-"zipcode": "48393",
+"zipcode": 48393,
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
