@@ -1,15 +1,33 @@
 {
-"userid": 1,
+"users": [{
+"userid": "1",
 "firstname": "Simon",
 "lastname": "Mpoy",
 "username": "Bret",
 "password": "xxxxxxx",
 "title": "LeBaron",
 "email": "Sincere@april.biz",
-"birthdate": "test"
+"birthdate": "test",
 "profilepicurl": "test",
-"zipcode": 48393,
+"zipcode": "48393",
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
+}, {
+"userid": "2",
+"firstname": "Jay",
+"lastname": "Chaudhary",
+"username": "jayjay",
+"password": "xxxxxxx",
+"title": "Scrum Master",
+"email": "Sincere@april.biz",
+"birthdate": "test",
+"profilepicurl": "test",
+"zipcode": "48393",
+"city": "Tampa",
+"state": "Florida",
+"country": "United States"
+}
+
+]
 }
