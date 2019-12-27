@@ -13,6 +13,7 @@
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
+<<<<<<< HEAD
 }, {
 "userid": "2",
 "firstname": "Jay",
@@ -31,3 +32,7 @@
 
 ]
 }
+=======
+}]
+}
+>>>>>>> 8e6ae68301de47feaa07a6ca5c6d8ecb72119870
