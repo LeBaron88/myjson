@@ -44,6 +44,36 @@
 "city": "Tampa",
 "state": "Florida",
 "country": "United States"
+}, {
+"userid": 4,
+"firstname": "Brian",
+"lastname": "Chester",
+"username": "jayjay",
+"password": "xxxxxxx",
+"title": "YourBestBuddy",
+"email": "Sincere@april.biz",
+"birthdate": "1997-01-01T23:28:56.782Z",
+"profilepicurl": "https://campfire-project2.s3.us-east-2.amazonaws.com/family.png",
+"bio": " American singer, songwriter, record producer, dancer, and actress. She was first discovered as a teenager and later signed to Murder Inc. in 2002",
+"zipcode": 48393,
+"city": "Wixom",
+"state": "Michigan",
+"country": "United States"
+}, {
+"userid": 5,
+"firstname": "George",
+"lastname": "Black",
+"username": "jayjay",
+"password": "xxxxxxx",
+"title": "Architect",
+"email": "Sincere@april.biz",
+"birthdate": "1997-01-01T23:28:56.782Z",
+"profilepicurl": "https://campfire-project2.s3.us-east-2.amazonaws.com/city.jpg",
+"bio": " American singer, songwriter, record producer, dancer, and actress. She was first discovered as a teenager and later signed to Murder Inc. in 2002",
+"zipcode": 48393,
+"city": "Atlanta",
+"state": "Georgia",
+"country": "United States"
 }]
 }
 
